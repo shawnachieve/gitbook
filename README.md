@@ -1,5 +1,2 @@
-# Page 1
+# First page of docs
 
-This is my content page.
-
-Adding some more content to the page.
